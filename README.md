@@ -7,7 +7,7 @@ My name is Jose Cáliz, Applied Data Scientist and Machine Learning Engineer.
 
 <h3 align="left"> 🔗 Contact me at: </h3>
 <p align="left">
-<a href="mailto:acalizv@gmail.com" target="_blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="leandroassis" height="30" width="40" /></a>
+<a href="mailto:acalizv@gmail.com" target="_blank"><img align="center" src="[https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667](https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png)" alt="leandroassis" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jcaliz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandroassis" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/jcaliz" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="leandroassis" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/leassis91" target="_blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="https://youtube.com/programacaodinamica" height="30" width="40" /></a> -->
